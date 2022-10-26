@@ -12,6 +12,7 @@ public class MathGame {
     public int illegalArgumentCount = 0;
 
     public static void main(String[] args) throws InterruptedException {
+        System.out.println("hello");
         MathGame game = new MathGame();
         //死循环，每过1秒调用1次下面的方法(不是开启一个线程)
         while (true) {
