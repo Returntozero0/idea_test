@@ -12,6 +12,7 @@ public class MathGame {
     public int illegalArgumentCount = 0;
 
     public static void main(String[] args) throws InterruptedException {
+        System.out.println("hello master");
         System.out.println("hello test");
         System.out.println("hello test2");
         System.out.println("hello test3");
