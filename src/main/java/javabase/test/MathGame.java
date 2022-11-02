@@ -24,6 +24,7 @@ public class MathGame {
         System.out.println("hello test9");
         System.out.println("hello test9");
         System.out.println("hello test10");
+        System.out.println("hello test11");
         MathGame game = new MathGame();
         //死循环，每过1秒调用1次下面的方法(不是开启一个线程)
         while (true) {
